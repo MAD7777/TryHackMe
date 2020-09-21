@@ -16,4 +16,6 @@ Nmap is a great network scanning tool. https://tryhackme.com/room/rpnmap This ro
 
 Enough with the talk Let's get into scannig the machine.
  
- Once the machine is deployed they will give an ip address.Thats the ip 
+ Once the machine is deployed they will give an ip address. As shown in the Figure.
+
+![ip](https://github.com/MAD7777/TryHackMe/blob/master/Eternal_Blue/images/ip.PNG)
