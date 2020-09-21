@@ -8,16 +8,18 @@
 ### Lests start with the Methodology.
 
 #### Step 1: Information Gathering.
-First of all we need to get connected to tryhackme's network using openvpn. Once connected Deploy the machine. 
+1. First of all we need to get connected to tryhackme's network using openvpn. Once connected Deploy the machine. *
 If you don't know about the openvpn you can join this room https://tryhackme.com/room/openvpn
 
-We will be using a tool called **Nmap** (network mapper) to gather information about the various service runnig on the machine.
+2. We will be using a tool called **Nmap** (network mapper) to gather information about the various service runnig on the machine.
 Nmap is a great network scanning tool. https://tryhackme.com/room/rpnmap This room will help you with the basic of Nmap commannds.  
 
-Enough with the talk Let's get into scannig the machine.
+*Enough with the talk Let's get into scannig the machine.*
  
- Once the machine is deployed they will give an ip address. As shown in the Figure.
+* Once the machine is deployed they will give an ip address. As shown in the Figure.
+  ![ip](https://github.com/MAD7777/TryHackMe/blob/master/Eternal_Blue/images/ip.PNG)
 
-![ip](https://github.com/MAD7777/TryHackMe/blob/master/Eternal_Blue/images/ip.PNG)
+* Now we will scan the ip to discover the open ports and the services running. we'll also use various option to discover vulnerabilities.
 
-Now we will scan the ip to discover the open ports and the services running. we'll also use various option to discover vulnerabilities.
+ ![nmap](https://github.com/MAD7777/TryHackMe/blob/master/Eternal_Blue/images/nmap.PNG)
+
