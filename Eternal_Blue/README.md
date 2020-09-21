@@ -27,6 +27,15 @@ Nmap is a great network scanning tool. https://tryhackme.com/room/rpnmap This ro
 * As we can see the scan gave an interesting result.
  ![scan](https://github.com/MaheshDuvaka/TryHackMe/blob/master/Eternal_Blue/images/scan.png)
 
- 
+The result states that the Microsoft SMBv1 server has a critical vunerability(**ms17-010**).
+This vulnerability is known as Enternal Blue you can find the exploit on exploit-db as **CVE-2017-0143**.
+
+#### Step 2: Gaining Access.
+
+* This is probably the excieting part of every Hacker.
+* we will be using **metasploit** to exploit the machine. It is a framework developed by **Rapid7**.
+* https://tryhackme.com/room/rpmetasploit This room will help you to get familiar with Metasploit.
+
+
  
 
