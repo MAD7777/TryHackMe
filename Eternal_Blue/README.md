@@ -20,5 +20,9 @@ Nmap is a great network scanning tool. https://tryhackme.com/room/rpnmap This ro
   ![ip](https://github.com/MAD7777/TryHackMe/blob/master/Eternal_Blue/images/ip.PNG)
 
 * Now we will scan the ip to discover the open ports and the services running. we'll also use various option to discover vulnerabilities.
+ 
  ![nmap](https://github.com/MAD7777/TryHackMe/blob/master/Eternal_Blue/images/nmap.PNG)
+  * -sV 
+  * -O
+  * --script
 
