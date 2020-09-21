@@ -17,14 +17,15 @@ Nmap is a great network scanning tool. https://tryhackme.com/room/rpnmap This ro
 *Enough with the talk Let's get into scannig the machine.*
  
 * Once the machine is deployed they will give an ip address. As shown in the Figure.
-  ![ip](https://github.com/MAD7777/TryHackMe/blob/master/Eternal_Blue/images/ip.PNG)
+  ![ip](https://github.com/MaheshDuvaka/TryHackMe/blob/master/Eternal_Blue/images/ip.PNG)
 
 * Now we will scan the ip to discover the open ports and the services running. we'll also use various option to discover vulnerabilities.
-    ![nmap](https://github.com/MAD7777/TryHackMe/blob/master/Eternal_Blue/images/nmap.PNG)
+    ![nmap](https://github.com/MaheshDuvaka/TryHackMe/blob/master/Eternal_Blue/images/nmap.PNG)
   * **-sV** this option is used to determine service version.
   * **-O** this option is used to detect the OS of the machine.
   * **--script** this option helps in finging vulnerabilities using nmap scripiting engine.
 * As we can the scan gave an interesting result.
+ ![scan](https://github.com/MaheshDuvaka/TryHackMe/blob/master/Eternal_Blue/images/scan.PNG)
 
  
  
