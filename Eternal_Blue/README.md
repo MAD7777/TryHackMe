@@ -25,7 +25,7 @@ Nmap is a great network scanning tool. https://tryhackme.com/room/rpnmap This ro
   * **-O** this option is used to detect the OS of the machine.
   * **--script** this option helps in finging vulnerabilities using nmap scripiting engine.
 * As we can the scan gave an interesting result.
- ![scan](https://github.com/MaheshDuvaka/TryHackMe/blob/master/Eternal_Blue/images/scan.PNG)
+ ![scan](https://github.com/MaheshDuvaka/TryHackMe/blob/master/Eternal_Blue/images/scan.png)
 
  
  
