@@ -79,4 +79,4 @@ This vulnerability is known as Enternal Blue you can find the exploit on exploit
   * ![flag2](https://github.com/MaheshDuvaka/TryHackMe/blob/master/Eternal_Blue/images/flag2.PNG)
   
   * The final thrid flag was in the Documents folder of user *Jon*.
-  * 
+  * ![flag3](https://github.com/MaheshDuvaka/TryHackMe/blob/master/Eternal_Blue/images/flag3.PNG)
