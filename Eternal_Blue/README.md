@@ -46,5 +46,5 @@ This vulnerability is known as Enternal Blue you can find the exploit on exploit
  ![options](https://github.com/MaheshDuvaka/TryHackMe/blob/master/Eternal_Blue/images/options.PNG)
 
 * This module has four required settings and three of them are automatically configured for you. The only thing you have to do is provide a target so we use the command:
-  * set *rhost* <ip address of the machine> 
+  * set *rhost* [ip address of the machine] 
 
