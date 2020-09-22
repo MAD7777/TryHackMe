@@ -32,10 +32,9 @@ This vulnerability is known as Enternal Blue you can find the exploit on exploit
 
 #### Step 2: Gaining Access.
 
-* This is probably the excieting part of every Hacker.
+* This is probably the exciting part of every Hacker.
 * we will be using **metasploit** to exploit the machine. It is a framework developed by **Rapid7**.
 * https://tryhackme.com/room/rpmetasploit This room will help you to get familiar with Metasploit.
-
-
- 
+* Lets Fire up Metasploit by using command **msfconsole**
+* As we see that Nmap is indicating the target may be vulnerable to ms17-010. Hence will do a simple search or *ms17-010*.
 
