@@ -40,3 +40,4 @@ This vulnerability is known as Enternal Blue you can find the exploit on exploit
 ![ms.search](https://github.com/MaheshDuvaka/TryHackMe/blob/master/Eternal_Blue/images/ms.search.png)
 
 * Now we know exploit to be used.
+ ![use](https://github.com/MaheshDuvaka/TryHackMe/blob/master/Eternal_Blue/images/use.exploit.PNG)
