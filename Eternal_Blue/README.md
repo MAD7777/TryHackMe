@@ -68,3 +68,9 @@ This vulnerability is known as Enternal Blue you can find the exploit on exploit
   * ![migrate](https://github.com/MaheshDuvaka/TryHackMe/blob/master/Eternal_Blue/images/migrate.PNG)
   * Since we gained highest privilages now we can dump the hashes using **hashdump**
   * ![hash](https://github.com/MaheshDuvaka/TryHackMe/blob/master/Eternal_Blue/images/hash.PNG)
+  
+  * This hashes can be copied to a file and cracked using **john** or **hashcat**.Since password cracking takes time i have not demonstrated in this write up.
+#### Step 5: Finding Flags 
+  * Now we have to look for Three flages spread throughout the system.
+  * The first flag was in C drive:
+  * 
