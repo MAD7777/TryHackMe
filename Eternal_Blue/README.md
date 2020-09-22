@@ -77,3 +77,6 @@ This vulnerability is known as Enternal Blue you can find the exploit on exploit
   
   * The second flaf was at C:\windows\system32\config which is location of SAM database.
   * ![flag2](https://github.com/MaheshDuvaka/TryHackMe/blob/master/Eternal_Blue/images/flag2.PNG)
+  
+  * The final thrid flag was in the Documents folder of user *Jon*.
+  * 
