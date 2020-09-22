@@ -73,4 +73,4 @@ This vulnerability is known as Enternal Blue you can find the exploit on exploit
 #### Step 5: Finding Flags 
   * Now we have to look for Three flages spread throughout the system.
   * The first flag was in C drive:
-  * 
+  * ![flag1](https://github.com/MaheshDuvaka/TryHackMe/blob/master/Eternal_Blue/images/flag1.PNG)
