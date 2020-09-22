@@ -37,4 +37,6 @@ This vulnerability is known as Enternal Blue you can find the exploit on exploit
 * https://tryhackme.com/room/rpmetasploit This room will help you to get familiar with Metasploit.
 * Lets Fire up Metasploit by using command **msfconsole**
 * As we see that Nmap is indicating the target may be vulnerable to ms17-010. Hence will do a simple search or *ms17-010*.
+![ms.search](https://github.com/MaheshDuvaka/TryHackMe/blob/master/Eternal_Blue/images/ms.search.png)
 
+* Now we know exploit to be used.
