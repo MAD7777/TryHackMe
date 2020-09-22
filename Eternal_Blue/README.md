@@ -48,3 +48,4 @@ This vulnerability is known as Enternal Blue you can find the exploit on exploit
 * This module has four required settings and three of them are automatically configured for you. The only thing you have to do is provide a target so we use the command:
   * set *rhost* [ip address of the machine] 
   * Then execute the exploit by **exploit** command
+  * 
