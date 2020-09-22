@@ -62,5 +62,8 @@ This vulnerability is known as Enternal Blue you can find the exploit on exploit
   * We need have higher privilages inorder to dump all the hashes.
   * Just because we have system level privileges doesn't mean our process does! We'll have to migrate to a new process that have those permissions.
   * use **ps** to get the list of all the process runnig on the machine. And then migrate to the process which is running as nt authority\system.
+  * ![ps](https://github.com/MaheshDuvaka/TryHackMe/blob/master/Eternal_Blue/images/ps.list.PNG)
   
+  * In our case we will migrate the process to winlogon.exe with pid 660.
+  * ![migrate](https://github.com/MaheshDuvaka/TryHackMe/blob/master/Eternal_Blue/images/migrate.PNG)
   
