@@ -77,7 +77,7 @@ This vulnerability is known as Enternal Blue you can find the exploit on exploit
     * **rockyou.txt** is a dictionary containing a lot of common passwords
   * ![cracked](https://github.com/MaheshDuvaka/TryHackMe/blob/master/Eternal_Blue/images/cracked.PNG)  
   * We can see that the password of after all present in dictionary file.
-  * **Note** never use common passwords.
+  * **Note** :- never use common passwords.
   
 #### Step 5: Finding Flags 
   * Now we have to look for Three flages spread throughout the system.
@@ -89,3 +89,7 @@ This vulnerability is known as Enternal Blue you can find the exploit on exploit
   
   * The final thrid flag was in the Documents folder of user *Jon*.
   * ![flag3](https://github.com/MaheshDuvaka/TryHackMe/blob/master/Eternal_Blue/images/flag3.PNG)
+  
+  #### Thats It. WE are done. IT was my First Write UP and had a great experince with first time with github as well.
+  #####           ----END----
+  
