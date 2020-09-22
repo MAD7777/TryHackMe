@@ -90,6 +90,6 @@ This vulnerability is known as Enternal Blue you can find the exploit on exploit
   * The final thrid flag was in the Documents folder of user *Jon*.
   * ![flag3](https://github.com/MaheshDuvaka/TryHackMe/blob/master/Eternal_Blue/images/flag3.PNG)
   
-  #### Thats It. WE are done. IT was my First Write UP and had a great experince with first time with github as well.
+  #### Thats It. WE are done. IT was my First Write UP and had a great experince with first time using github as well.
   #####           ----END----
   
