@@ -49,3 +49,4 @@ This vulnerability is known as Enternal Blue you can find the exploit on exploit
   * set *rhost* [ip address of the machine] 
   * Then execute the exploit by **exploit** command
   * ![exploit](https://github.com/MaheshDuvaka/TryHackMe/blob/master/Eternal_Blue/images/exploit.PNG)
+  * As we see the exploit worked and we got reserse shell back. Now we need to upgrade our shell to **Meterpreter** which is way powerfull..!
