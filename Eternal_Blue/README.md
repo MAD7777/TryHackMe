@@ -55,3 +55,5 @@ This vulnerability is known as Enternal Blue you can find the exploit on exploit
   * First we will background the current shell by CRLT+Z, *Take note the session id*
   * Next search for the **shell_to_meterpreter**
   * ![escalate](https://github.com/MaheshDuvaka/TryHackMe/blob/master/Eternal_Blue/images/escalate.PNG)
+  * use the moudle *post/multi/manage/shell_to_meterpreter* and set the session id same as the you noted.
+  *  
