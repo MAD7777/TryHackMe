@@ -66,4 +66,5 @@ This vulnerability is known as Enternal Blue you can find the exploit on exploit
   
   * In our case we will migrate the process to winlogon.exe with pid 660.
   * ![migrate](https://github.com/MaheshDuvaka/TryHackMe/blob/master/Eternal_Blue/images/migrate.PNG)
-  
+  * Since we gained highest privilages now we can dump the hashes using **hashdump**
+  * ![hash](https://github.com/MaheshDuvaka/TryHackMe/blob/master/Eternal_Blue/images/hash.PNG)
