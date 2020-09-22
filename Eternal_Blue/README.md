@@ -52,3 +52,6 @@ This vulnerability is known as Enternal Blue you can find the exploit on exploit
   * As we see the exploit worked and we got reserse shell back. Now we need to upgrade our shell to **Meterpreter** which is way powerfull..!!
 #### Step 3: Escalate
   * The challenge wants us to convert our “regular” shell access on the target to a “meterpreter” shell, there is a module for that, all we need to do is load it.
+  * First we will background the current shell by CRLT+Z, *Take note the session id*
+  * Next search for the **shell_to_meterpreter**
+  * ![escalate](https://github.com/MaheshDuvaka/TryHackMe/blob/master/Eternal_Blue/images/escalate.PNG)
