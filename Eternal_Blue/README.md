@@ -42,3 +42,4 @@ This vulnerability is known as Enternal Blue you can find the exploit on exploit
 * Now we know exploit to be used.
 
   ![use](https://github.com/MaheshDuvaka/TryHackMe/blob/master/Eternal_Blue/images/use.exploit.PNG)
+* Before we run the exploit will just take a look at the option. 
