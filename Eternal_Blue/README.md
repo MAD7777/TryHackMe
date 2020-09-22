@@ -56,4 +56,11 @@ This vulnerability is known as Enternal Blue you can find the exploit on exploit
   * Next search for the **shell_to_meterpreter**
   * ![escalate](https://github.com/MaheshDuvaka/TryHackMe/blob/master/Eternal_Blue/images/escalate.PNG)
   * use the moudle *post/multi/manage/shell_to_meterpreter* and set the session id same as the you noted.
-  *  
+  * ![mp](https://github.com/MaheshDuvaka/TryHackMe/blob/master/Eternal_Blue/images/meterpreter.PNG) 
+  * Once the regular shell is upgraded to Meterpreter you can a lot more.
+#### Step 4: Cracking
+  * We need have higher privilages inorder to dump all the hashes.
+  * Just because we have system level privileges doesn't mean our process does! We'll have to migrate to a new process that have those permissions.
+  * use **ps** to get the list of all the process runnig on the machine. And then migrate to the process which is running as nt authority\system.
+  
+  
