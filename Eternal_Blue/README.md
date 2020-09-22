@@ -75,6 +75,7 @@ This vulnerability is known as Enternal Blue you can find the exploit on exploit
     * **-a** stands for attack mode which is straight(0)
     * **hast.txt** is the hash file
     * **rockyou.txt** is a dictionary containing a lot of common passwords
+  *   
   
 #### Step 5: Finding Flags 
   * Now we have to look for Three flages spread throughout the system.
